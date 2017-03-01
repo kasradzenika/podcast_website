@@ -1,0 +1,10 @@
+# Page settings
+baseurl = "localhost:1313"
+languageCode = "en-us"
+
+[params]
+  
+  # Meta
+  author = "Nekka Kasra"
+  description = ""
+  email = ""
