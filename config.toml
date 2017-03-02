@@ -2,10 +2,11 @@
 title = "podcast"
 theme = "internet-weblog"
 BaseURL = "https://kasradzenika.github.io/podcast/"
-languageCode = "en-us"
+LanguageCode = "en-us"
 Paginate = 10
 SectionPagesMenu = "main"
-
+GoogleAnalytics = "UA-69266857-2"
+DisqusShortname = "podcasterge"
   
 [author]
 	Handle = "DV"
