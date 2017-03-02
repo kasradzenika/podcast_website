@@ -1,10 +1,32 @@
 # Page settings
-baseurl = "localhost:1313"
+title = "podcast"
+theme = "internet-weblog"
+BaseURL = "localhost:1313/"
 languageCode = "en-us"
+Paginate = 10
+SectionPagesMenu = "main"
 
-[params]
   
-  # Meta
-  author = "Nekka Kasra"
-  description = ""
-  email = ""
+[author]
+	Handle = "DV"
+	FirstName = "DV"
+	LastName = ""
+	AboutPage = "/about/"
+	Location = "Tbilisi, GE"
+    
+[params]
+    RSSEnabled = true
+    RSSSections = [ "Posts" ]
+    Description = "podcast description"
+    ShowCopyright = true
+    
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+    
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
