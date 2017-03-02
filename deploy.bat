@@ -10,4 +10,6 @@ git add -A
 git commit -v -m message
 git push
 
+cd ..
+
 pause
