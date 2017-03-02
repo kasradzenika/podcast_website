@@ -9,15 +9,14 @@ GoogleAnalytics = "UA-69266857-2"
 DisqusShortname = "podcasterge"
   
 [author]
-	Handle = "DV"
-	FirstName = "DV"
+	Handle = "Nika"
+	FirstName = "Nika"
 	LastName = ""
 	AboutPage = "/podcast/about/"
 	Location = "Tbilisi, GE"
     
 [params]
     RSSEnabled = true
-    RSSSections = [ "Posts" ]
     Description = "podcast description"
     ShowCopyright = true
     
