@@ -1,7 +1,7 @@
 # Page settings
 title = "podcast"
 theme = "internet-weblog"
-BaseURL = "http://localhost:1313/podcast/"
+BaseURL = "https://kasradzenika.github.io/podcast/"
 languageCode = "en-us"
 Paginate = 10
 SectionPagesMenu = "main"
