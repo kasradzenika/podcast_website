@@ -11,7 +11,7 @@ SectionPagesMenu = "main"
 	Handle = "DV"
 	FirstName = "DV"
 	LastName = ""
-	AboutPage = "/podcast/about"
+	AboutPage = "/podcast/about/"
 	Location = "Tbilisi, GE"
     
 [params]
