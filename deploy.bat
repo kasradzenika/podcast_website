@@ -14,4 +14,10 @@ git push
 
 cd ..
 
+cd "./themes/internet-weblog"
+
+git add -A
+git commit -v -m %message%
+git push
+
 pause

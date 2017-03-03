@@ -1,23 +1,23 @@
 # Page settings
-title = "podcast"
+title = "პოდკასტი"
 theme = "internet-weblog"
 BaseURL = "https://kasradzenika.github.io/podcast/"
-LanguageCode = "en-us"
+LanguageCode = "ka-GE"
 Paginate = 10
 SectionPagesMenu = "main"
 GoogleAnalytics = "UA-69266857-2"
 DisqusShortname = "podcasterge"
   
 [author]
-	Handle = "Nika"
-	FirstName = "Nika"
-	LastName = ""
+	Handle = "კვარკი"
+	FirstName = "ნიკა"
+	LastName = "კასრაძე"
 	AboutPage = "/podcast/about/"
 	Location = "Tbilisi, GE"
     
 [params]
+    Description = "წარმატების ისტორიები"
     RSSEnabled = true
-    Description = "podcast description"
     ShowCopyright = true
     
 [taxonomies]
@@ -26,7 +26,7 @@ DisqusShortname = "podcasterge"
 	series = "series"
     
 [[menu.main]]
-	name = "Posts"
+	name = "პოსტები"
 	weight = 1
 	identifier = "posts"
 	url = "/posts/"
