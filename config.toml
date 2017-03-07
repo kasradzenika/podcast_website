@@ -1,6 +1,6 @@
 # Page settings
 title = "პოდკასტი"
-theme = "internet-weblog"
+theme = "anybodyhome"
 BaseURL = "https://kasradzenika.github.io/podcast/"
 LanguageCode = "ka-GE"
 Paginate = 10
@@ -17,6 +17,7 @@ DisqusShortname = "podcasterge"
     
 [params]
     Description = "წარმატების ისტორიები"
+    subtitle = "წარმატების ისტორიები"
     RSSEnabled = true
     ShowCopyright = true
     
