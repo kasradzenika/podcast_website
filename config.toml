@@ -1,18 +1,18 @@
 # Page settings
-title = "პოდკასტი"
-theme = "internet-weblog"
-BaseURL = "https://kasradzenika.github.io/podcast/"
+title = "რაღაცნაირი"
+# theme = "anybodyhome"
+BaseURL = "https://podcast.ge/"
 LanguageCode = "ka-GE"
-Paginate = 10
+Paginate = 5
 SectionPagesMenu = "main"
 GoogleAnalytics = "UA-69266857-2"
 DisqusShortname = "podcasterge"
   
 [author]
-	Handle = "კვარკი"
+	Handle = "Deep Vigil"
 	FirstName = "ნიკა"
 	LastName = "კასრაძე"
-	AboutPage = "/podcast/about/"
+	AboutPage = "https://fb.com/DeepVigilant"
 	Location = "Tbilisi, GE"
     
 [params]
