@@ -1,6 +1,6 @@
 # Page settings
-title = "რაღაცნაირი"
-# theme = "anybodyhome"
+title = "ეს"
+theme = "anybodyhome"
 BaseURL = "https://podcast.ge/"
 LanguageCode = "ka-GE"
 Paginate = 5
@@ -9,7 +9,7 @@ GoogleAnalytics = "UA-69266857-2"
 DisqusShortname = "podcasterge"
   
 [author]
-	Handle = "Deep Vigil"
+	Handle = "Deep Vigilant"
 	FirstName = "ნიკა"
 	LastName = "კასრაძე"
 	AboutPage = "https://fb.com/DeepVigilant"
