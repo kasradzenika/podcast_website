@@ -12,7 +12,7 @@ DisqusShortname = "podcasterge"
 	Handle = "Deep Vigilant"
 	FirstName = "ნიკა"
 	LastName = "კასრაძე"
-	AboutPage = "https://fb.com/DeepVigilant"
+	AboutPage = "mailto:nikakasradze@podcast.ge"
 	Location = "Tbilisi, GE"
     
 [params]
