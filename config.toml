@@ -16,7 +16,7 @@ DisqusShortname = "podcasterge"
 	Location = "Tbilisi, GE"
     
 [params]
-    Description = "წარმატების ისტორიები"
+    Description = "არა-მეინსტრიმული ისტორიები"
     RSSEnabled = true
     ShowCopyright = true
     

@@ -2,7 +2,7 @@
 date = "2017-03-14T02:10:40+04:00"
 title = "es 1 - post red audio"
 draft = false
-externalurl = "https://soundcloud.com/deepvigil/chilly-shit"
+externalurl = "https://soundcloud.com/espodkasti/ep-1-post-red-audio"
 
 +++
 
