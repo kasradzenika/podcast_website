@@ -1,18 +1,18 @@
 # Page settings
 title = "ეს"
 theme = "anybodyhome"
-BaseURL = "https://podcast.ge/"
+BaseURL = "https://kasradzenika.github.io/podcast.ge_build/"
 LanguageCode = "ka-GE"
 Paginate = 5
 SectionPagesMenu = "main"
 GoogleAnalytics = "UA-69266857-2"
 DisqusShortname = "podcasterge"
-  
+
 [author]
 	Handle = "Deep Vigilant"
 	FirstName = "ნიკა"
 	LastName = "კასრაძე"
-	AboutPage = "mailto:nikakasradze@podcast.ge"
+	AboutPage = "mailto:kasradzenika@yahoo.com"
 	Location = "Tbilisi, GE"
     
 [params]
